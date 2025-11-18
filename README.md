@@ -12,3 +12,4 @@ python3 app.py
 Welcome to the Study Tracker!
 How many hours did you study today? 3
 If you study like this every day, you'll study about 21.0 hours this week.
+
