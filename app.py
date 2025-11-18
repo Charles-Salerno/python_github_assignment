@@ -12,3 +12,4 @@ except ValueError:
 weekly = hours * 7
 # Output
 print(f"If you study like this every day, you'll study about {weekly} hours this week.")
+
